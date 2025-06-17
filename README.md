@@ -1,4 +1,4 @@
-## 🌐 Personal Website — [`jalil-kartal.github.io`](https://jalil-kartal.github.io)
+## 🌐 Personal Website — [`jalilnkh.github.io`](https://jalilnkh.github.io)
 
 This is the source code for my personal academic and research website.
 The site highlights:
